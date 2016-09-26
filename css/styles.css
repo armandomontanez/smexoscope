@@ -122,3 +122,8 @@ img#featured {
 	height: auto;
 	max-width: 829px;
 }
+#counter {
+	position: absolute;
+	top: calc(100% - 45px);
+	left: calc(100% - 100px);
+}
